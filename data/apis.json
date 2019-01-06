@@ -1,0 +1,266 @@
+[
+  {
+    "name": "placebear",
+    "url": "https://placebear.com/",
+    "category:": "images & video",
+    "shittyAccess": false
+  },
+  {
+    "name": "spotify",
+    "url": "https://developer.spotify.com/web-api/",
+    "category": "music",
+    "shittyAccess": true
+  },
+  {
+    "name": "telegram bots",
+    "url": "https://core.telegram.org/bots/api",
+    "category": "bot",
+    "shittyAccess": true
+  },
+  {
+    "name": "nasa",
+    "url": "https://api.nasa.gov/",
+    "category": "miscellaneous",
+    "shittyAccess": false
+  },
+  {
+    "name": "unsplash",
+    "url": "https://unsplash.com",
+    "category": "images & video",
+    "shittyAccess": false
+  },
+  {
+    "name": "telegram",
+    "url": "https://core.telegram.org/",
+    "category": "communiy",
+    "shittyAccess": false
+  },
+  {
+    "name": "reddit",
+    "url": "https://www.reddit.com/dev/api",
+    "category": "community",
+    "shittyAccess": false
+  },
+  {
+    "name": "youtube",
+    "url": "https://developers.google.com/youtube/",
+    "category": "video",
+    "shittyAccess": false
+  },
+  {
+    "name": "brewerydb",
+    "url": "http://www.brewerydb.com/browse",
+    "category": "food & drinks",
+    "shittyAccess": false
+  },
+  {
+    "name": "jamendo",
+    "url": "https://developer.jamendo.com/v3.0",
+    "category": "music",
+    "shittyAccess": false
+  },
+  {
+    "name": "pokeapi",
+    "url": "https://pokeapi.co/",
+    "category": "films & gaming",
+    "shittyAccess": false
+  },
+  {
+    "name": "steam",
+    "url": "https://steamcommunity.com/dev",
+    "category": "films & gaming",
+    "shittyAccess": false
+  },
+  {
+    "name": "star wars",
+    "url": "https://swapi.co/",
+    "category": "films & gaming",
+    "shittyAccess": false
+  },
+  {
+    "name": "world of warcraft",
+    "url": "https://dev.battle.net/",
+    "category": "films & gaming",
+    "shittyAccess": false
+  },
+  {
+    "name": "quotes",
+    "url": "https://quotes.rest/",
+    "category": "text",
+    "shittyAccess": false
+  },
+  {
+    "name": "love calculator",
+    "url": "https://market.mashape.com/ajith/love-calculator",
+    "category": "miscellaneous",
+    "shittyAccess": false
+  },
+  {
+    "name": "robohash",
+    "url": "https://robohash.org/",
+    "category": "images & video",
+    "shittyAccess": false
+  },
+  {
+    "name": "giphy",
+    "url": "https://developers.giphy.com/",
+    "category": "images & video",
+    "shittyAccess": false
+  },
+  {
+    "name": "open weather map",
+    "url": "https://openweathermap.org/api",
+    "category": "miscellaneous",
+    "shittyAccess": false
+  },
+  {
+    "name": "Vimeo",
+    "url": "https://market.mashape.com/klise17/vimeo",
+    "category": "video",
+    "shittyAccess": false
+  },
+  {
+    "name": "producthunt",
+    "url": "https://api.producthunt.com/v1/docs?ref=producthunt",
+    "category": "miscellaneous",
+    "shittyAccess": false
+  },
+  {
+    "name": "musicxmatch",
+    "url": "https://developer.musixmatch.com/",
+    "category": "text",
+    "shittyAccess": false
+  },
+  {
+    "name": "Tronald Dumb",
+    "url": "https://www.tronalddump.io/",
+    "category": "text",
+    "shittyAccess": false
+  },
+  {
+    "name": "numbers",
+    "url": "http://numbersapi.com/",
+    "category": "text",
+    "shittyAccess": false
+  },
+  {
+    "name": "robohash",
+    "url": "https://robohash.org/",
+    "category": "video",
+    "shittyAccess": false
+  },
+  {
+    "name": "news",
+    "url": "https://newsapi.org/",
+    "category": "text",
+    "shittyAccess": false
+  },
+  {
+    "name": "github",
+    "url": "https://developer.github.com/v3/",
+    "category": "community",
+    "shittyAccess": false
+  },
+  {
+    "name": "Flickr",
+    "url": "https://www.flickr.com/services/api/",
+    "category": "images & video",
+    "shittyAccess": false
+  },
+  {
+    "name": "Yes or no",
+    "url": "https://yesno.wtf/api/",
+    "category": "miscellaneous",
+    "shittyAccess": false
+  },
+  {
+    "name": "NYTimes",
+    "url": "http://developer.nytimes.com/",
+    "category": "text",
+    "shittyAccess": false
+  },
+  {
+    "name": "Startup Idea Generator",
+    "url": "http://itsthisforthat.com/api.php",
+    "category": "text",
+    "shittyAccess": false
+  },
+  {
+    "name": "Europeana",
+    "url": "https://pro.europeana.eu/page/europeana-rest-api",
+    "category": "geography",
+    "shittyAccess": false
+  },
+  {
+    "name": "Deutsche Bahn",
+    "url": "http://data.deutschebahn.com/dataset/api-fahrplan ",
+    "category": "miscellaneous",
+    "shittyAccess": false
+  },
+  {
+    "name": "Text to speech",
+    "url": "es gibt diverse, google am besten",
+    "category": "text",
+    "shittyAccess": false
+  },
+  {
+    "name": "synonyms",
+    "url": "https://www.synonyms.com/synonyms_api.php ",
+    "category": "text",
+    "shittyAccess": false
+  },
+  {
+    "name": "open street map",
+    "url": "https://wiki.openstreetmap.org/wiki/API",
+    "category": "geography",
+    "shittyAccess": false
+  },
+  {
+    "name": "Foodpairing",
+    "url": "https://foodpairingpublicapi.docs.apiary.io/#",
+    "category": "food & drinks",
+    "shittyAccess": false
+  },
+  {
+    "name": "tastedive",
+    "url": "https://tastedive.com/read/api",
+    "category": "images & video, text",
+    "shittyAccess": false
+  },
+  {
+    "name": "Stanford Dog API",
+    "url": "https://dog.ceo/dog-api/",
+    "category": "miscellaneous",
+    "shittyAccess": false
+  },
+  {
+    "name": "random user generator",
+    "url": "https://randomuser.me/ ",
+    "category": "miscellaneous",
+    "shittyAccess": false
+  },
+  {
+    "name": "yelp",
+    "url": "https://www.yelp.com/developers/documentation/v3",
+    "category": "miscellaneous",
+    "shittyAccess": false
+  },
+  {
+    "name": "Snooth",
+    "url": "http://api.snooth.com/",
+    "category": "food & drinks",
+    "shittyAccess": false
+  },
+  {
+    "name": "stackexchange",
+    "url": "https://api.stackexchange.com/docs",
+    "category": "community",
+    "shittyAccess": false
+  },
+  {
+    "name": "duckduckgo",
+    "url": "https://duckduckgo.com/api",
+    "category": "community",
+    "shittyAccess": false
+  }
+]
